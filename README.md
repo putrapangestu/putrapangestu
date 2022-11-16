@@ -1,7 +1,7 @@
 ### Hello
 - 👋 Hi, I’m Putra Ridho
-- 👀 I’m interested in sleep
-- 🌱 I’m currently learning how to sleep well
+- 👀 I’m interested in gaming
+- 🌱 I’m currently learning how to games with gaming
 
 You can contact me bellow
 
@@ -16,6 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 ### My Currently Stats
 <div class="badge">
-  <img src="https://github-readme-stats.vercel.app/api?username=putrapangestu&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putrapangestu&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=putrapangestu&show_icons=true&theme=algolia&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putrapangestu&layout=compact&theme=algolia&hide_border=true" height="170px"/>
 </div>
